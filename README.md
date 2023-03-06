@@ -12,3 +12,4 @@ rebase edited from console
 adding new line for git rebase
 >>>>>>> d8adcc4 (edited read me file)
 the pain is unreal
+added from console
