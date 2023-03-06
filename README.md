@@ -14,3 +14,4 @@ adding new line for git rebase
 the pain is unreal
 added from console
 adding another line
+trying to merge main with other rep
